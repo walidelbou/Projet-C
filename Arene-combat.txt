@@ -1,0 +1,14 @@
+Bonjour / Bonsoir Monsieur Loic ,
+comme vous allez le constater on a fait 2 codes sources 
+pour notre projet . le 1 er en C et le 2 eme en C++ mais c'est la meme logique derriere les 2 codes et vous allez remarquer ceci .
+- Fichier C : Ne s execute pas correctement sachant qu'il y a
+pas d'erreur dans le build .
+- Fichier C++ : Fonctionne parfaitement , on a utilise le C++ vu
+que moi et mohammed on en a deja travaille avec auparavant .
+et la notion using namespace std & cout ( console.out) et cin (console.in) rend le travail largement plus
+facile que de coder le programme en C pur . on a aussi essaye d'implementer l'arene (fonctions de combat) dans le code mais ca fait tres moche 
+donc je vais vous l'envoyer dans un fichier tout seul . on reste a votre disposition pour toute question a propos du code .
+
+Merci beaucoup . 
+
+--ELBOUHSSAINI AHMED WALID , ALAOUI MOHAMMED --
